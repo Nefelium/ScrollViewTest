@@ -7,15 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		740906AB2661097200382579 /* PushedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 740906AA2661097200382579 /* PushedViewController.swift */; };
 		744C90F025CFB80400D105FD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744C90EF25CFB80400D105FD /* AppDelegate.swift */; };
 		744C90F225CFB80400D105FD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744C90F125CFB80400D105FD /* SceneDelegate.swift */; };
 		744C90F425CFB80400D105FD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744C90F325CFB80400D105FD /* ViewController.swift */; };
 		744C90F725CFB80400D105FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 744C90F525CFB80400D105FD /* Main.storyboard */; };
 		744C90F925CFB80600D105FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 744C90F825CFB80600D105FD /* Assets.xcassets */; };
 		744C90FC25CFB80600D105FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 744C90FA25CFB80600D105FD /* LaunchScreen.storyboard */; };
+		74729B592661186400516FF3 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74729B582661186400516FF3 /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		740906AA2661097200382579 /* PushedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PushedViewController.swift; sourceTree = "<group>"; };
 		744C90EC25CFB80400D105FD /* ScrollViewTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollViewTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		744C90EF25CFB80400D105FD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		744C90F125CFB80400D105FD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +27,7 @@
 		744C90F825CFB80600D105FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		744C90FB25CFB80600D105FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		744C90FD25CFB80600D105FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		74729B582661186400516FF3 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				744C90F125CFB80400D105FD /* SceneDelegate.swift */,
 				744C90F325CFB80400D105FD /* ViewController.swift */,
 				744C90F525CFB80400D105FD /* Main.storyboard */,
+				74729B582661186400516FF3 /* ThirdViewController.swift */,
+				740906AA2661097200382579 /* PushedViewController.swift */,
 				744C90F825CFB80600D105FD /* Assets.xcassets */,
 				744C90FA25CFB80600D105FD /* LaunchScreen.storyboard */,
 				744C90FD25CFB80600D105FD /* Info.plist */,
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				744C90F425CFB80400D105FD /* ViewController.swift in Sources */,
+				740906AB2661097200382579 /* PushedViewController.swift in Sources */,
+				74729B592661186400516FF3 /* ThirdViewController.swift in Sources */,
 				744C90F025CFB80400D105FD /* AppDelegate.swift in Sources */,
 				744C90F225CFB80400D105FD /* SceneDelegate.swift in Sources */,
 			);
